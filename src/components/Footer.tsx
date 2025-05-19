@@ -70,10 +70,10 @@ const Footer: React.FC = () => {
         {/* Sub-Footer */}
         <div className="text-sm text-slate-500 dark:text-slate-400 pt-8 sm:flex sm:justify-between text-center sm:text-left">
           <p className="mb-2 sm:mb-0 flex items-center justify-center sm:justify-start">
-            Dibuat dengan <Heart size={14} className="mx-1.5 text-red-500 fill-current" /> oleh Tim NamaSitus
+            Dibuat dengan <Heart size={14} className="mx-1.5 text-red-500 fill-current" /> oleh Tim DIGISHOP
           </p>
           <p>
-            &copy; {new Date().getFullYear()} NamaSitus. Semua Hak Cipta Dilindungi.
+            &copy; {new Date().getFullYear()} DIGISHOP. Semua Hak Cipta Dilindungi.
           </p>
         </div>
       </div>

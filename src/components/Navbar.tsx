@@ -100,7 +100,7 @@ const Navbar: React.FC = () => {
       <div className="container mx-auto flex justify-between items-center">
         <Link to="/" className="flex items-center space-x-2 text-2xl font-bold text-white hover:opacity-80 transition-opacity">
           <Layers3 size={28} className="text-yellow-500" />
-          <span>NamaSitus</span>
+          <span>DIGISHOP</span>
         </Link>
 
         <div className="hidden md:flex items-center space-x-6">
@@ -134,7 +134,7 @@ const Navbar: React.FC = () => {
               <SheetHeader className="p-5 border-b border-slate-700/60 flex flex-row justify-between items-center">
                 <SheetTitle className="text-yellow-500 text-xl flex items-center">
                   <Layers3 size={24} className="mr-2.5" />
-                  NamaSitus
+                  DIGISHOP
                 </SheetTitle>
                 <SheetClose asChild>
                   <Button variant="ghost" size="icon" className="text-slate-300 hover:text-yellow-400 hover:bg-slate-700/80 rounded-full">
